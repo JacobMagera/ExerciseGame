@@ -1,2 +1,2 @@
 # ExerciseGame
-Using the raspberrypi to track heartrate, the game will be clicker-esque where instead of "clicking" every tune
+Using the raspberrypi to track heartrate, the game will be clicker-esque where instead of a touch input, every heartbeat over 120 (The minimum prolongued heartrate to induce cardiac improvement) is a trigger to produce points! The pi will also contain all of the scripting for the game, and a global leaderboard will display showing the x people with the most amount of points. The software will be free, but if eventually launched as a full scale mobile app then there will be OPTIONAL, non-invasive ads that can be watched for a boost in points for a limited time (E.g. 2x points for 4 hours).
